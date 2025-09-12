@@ -74,8 +74,8 @@ chatbot/
 
  This structure is modular:
 
-* You can swap **ChromaDB** with **Pinecone/Weaviate** later (just update `retrieval.py`).
-* You can add new agents (math, translation, etc.) in `AGENTS/tools/`.
+* Can swap **ChromaDB** with **Pinecone/Weaviate** later (just update `retrieval.py`).
+* Can add new agents (math, translation, etc.) in `AGENTS/tools/`.
 * Streamlit can be replaced with React frontend later, API remains unchanged.
 
 ---
