@@ -80,4 +80,3 @@ chatbot/
 
 ---
 
- Do you want me to also create a **minimal `requirements.txt`** for this setup (so you can install everything in one go)?
