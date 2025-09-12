@@ -1,4 +1,4 @@
-Got it ✅ let’s map a **clean folder structure** for your chatbot project based on:
+# Technologies
 
 * **Streamlit** (UI)
 * **FastAPI** (backend API)
